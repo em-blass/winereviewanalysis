@@ -4,7 +4,7 @@
 This repository contains the source code and analysis for a series of machine learning models trained on a dataset of wine reviews. My objective is to predict sentiment based on the textual content of each review.
 
 ## Dataset
-The dataset used is `winemag-data-130k-v2.csv`, containing 130,000 wine reviews. I preprocessed this data by cleaning and transforming the text and handling missing values.
+The dataset used is [winemag-data-130k-v2.csv](https://www.kaggle.com/datasets/zynicide/wine-reviews), containing 130,000 wine reviews. I preprocessed this data by cleaning and transforming the text and handling missing values.
 
 ## Models
 Three machine learning models evaluated:
